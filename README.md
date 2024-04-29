@@ -6,4 +6,11 @@ and poster [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8309722.svg)](htt
 ). It will also be published on [Zenodo](https://zenodo.org/communities/hdruk).
 The intention is that by making this accessible on GitHub that organisations can amend their own data, if desired.
 
-Questions? Please contact [Alex Knight](mailto:alex.knight@hdruk.ac.uk) or [UK Alliance](ukalliance@hdruk.ac.uk)
+This repository includes the following files:
+o [CSV file](Combined%20Organisation%20Dataset%20Table%20(v4).csv) Exported from original Excel spreadsheet
+o [JSON file](datasets.json) Converted from CSV file
+o [Jupyter Notebook](csv_to_json.ipynb) to convert CSV file to JSON format
+
+The current plan is that the JSON file will be linked to from the [Alliance CDM web page](https://ukhealthdata.org/data-standards/common-data-models/). This is the version that should be edited to make any changes to the table.
+
+Questions? Please contact [Alex Knight](mailto:alex.knight@hdruk.ac.uk) or [UK Alliance](mailto:ukalliance@hdruk.ac.uk)
