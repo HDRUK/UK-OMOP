@@ -7,7 +7,7 @@ and poster [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8309722.svg)](htt
 The intention is that by making this accessible on GitHub that organisations can amend their own data, if desired.
 
 This repository includes the following files:
-- [CSV file](Combined%20Organisation%20Dataset%20Table%20(v4).csv) Exported from original Excel spreadsheet
+- [Source CSV file](Combined%20Organisation%20Dataset%20Table%20(v4).csv) Exported from original Excel spreadsheet
 - [JSON file](datasets.json) Converted from CSV file
 - [Jupyter Notebook](csv_to_json.ipynb) to convert CSV file to JSON format
 
