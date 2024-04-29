@@ -1,0 +1,106 @@
+﻿Organisation,Organisation link,Organisation with Hyperlink,Dataset on portal?,Dataset on Gateway?,Cohort Discovery?,Data set,Care type,Health area,Repository Link
+Akrivia Health,https://akriviahealth.com,Akrivia Health,TRUE,FALSE,FALSE,Akrivia (AKRDB),Secondary,Mental health,https://portal.ehden.eu/
+Avon Longitudinal Study of Parents and Children,https://www.bristol.ac.uk/alspac/,Avon Longitudinal Study of Parents and Children,FALSE,FALSE,TRUE,ALSPAC,Cohort,General,https://www.healthdatagateway.org/
+Barts Health NHS Trust,https://www.bartshealth.nhs.uk/,Barts Health NHS Trust,TRUE,FALSE,FALSE,Barts,Inpatient (hospital) care/Outpatient specialist care/Pharmacy care,General,https://portal.ehden.eu/
+BREATHE,https://www.ed.ac.uk/usher/breathe,BREATHE,FALSE,FALSE,TRUE,Genetics of Asthma Severity & Phenotypes,Cohort,Asthma,https://www.healthdatagateway.org/
+Clinical Practice Research Datalink,https://www.cprd.com/,Clinical Practice Research Datalink,TRUE,FALSE,FALSE,CPRD Aurum,Primary,General,https://portal.ehden.eu/
+,,,TRUE,FALSE,FALSE,CPRD Aurum linked HES APC data,Primary + Inpatient,General,https://portal.ehden.eu/
+Connected Bradford,https://www.bradfordresearch.nhs.uk/our-research-teams/connected-bradford/,Connected Bradford,TRUE,FALSE,FALSE,cBradford,Inpatient (hospital) care/Outpatient general practitioner care/Outpatient specialist care/Long term/ skill nursing facility care/Pharmacy care/Other,General,https://portal.ehden.eu/
+BHF Data Science Centre (CVD-COVID-UK/COVID-IMPACT),https://bhfdatasciencecentre.org/,BHF Data Science Centre (CVD-COVID-UK/COVID-IMPACT),FALSE,FALSE,FALSE,HES-APC,Inpatient,General,
+,,,FALSE,FALSE,FALSE,Death registrations,Other,Deaths,
+,,,FALSE,FALSE,FALSE,GPES,Primary,Pandemic,
+,,,FALSE,FALSE,FALSE,NICOR,Registry,Heart failure,
+Discover-NOW,https://discover-now.co.uk/,Discover-NOW,FALSE,FALSE,FALSE,Discover-NOW,Primary,General,
+Eastern AHSN (Academic Health Science Network),https://healthinnovationeast.co.uk/,Eastern AHSN (Academic Health Science Network),FALSE,FALSE,FALSE,?,?,?,
+Generation Scotland,https://www.ed.ac.uk/generation-scotland,Generation Scotland,FALSE,FALSE,TRUE,GS:SFHS,Cohort,General,https://www.healthdatagateway.org/
+Genomics England,https://www.genomicsengland.co.uk/,Genomics England,FALSE,FALSE,FALSE,NHSD HES datasets,Various,"Cancer, rare diseases, COVID",
+,,,FALSE,TRUE,FALSE,"100,000 Genomes",,,https://www.healthdatagateway.org/
+,,,FALSE,FALSE,FALSE,Internal Cancer and Rare Disease datasets,,,
+,,,FALSE,FALSE,FALSE,NCRAS,,,
+,,,FALSE,FALSE,FALSE,NHSD Cancer datasets,,,
+,,,FALSE,FALSE,FALSE,UKHSA COVID Test Results,,,
+Great Ormond Street Hospital,https://www.gosh.nhs.uk/,Great Ormond Street Hospital,FALSE,FALSE,FALSE,"GOSH Epic data (2019-2023) demographics, visits, medication administrations, diagnoses, procedures",Secondary,Paediatric,
+,,,FALSE,TRUE,TRUE,Co-STARS,Cohort,COVID,https://www.healthdatagateway.org/
+Guy’s & St Thomas’ Hospital NHS Foundation Trust,https://www.guysandstthomas.nhs.uk/,Guy’s & St Thomas’ Hospital NHS Foundation Trust,TRUE,FALSE,FALSE,NHIC RENAL GSTT,Registry,Renal transplantation,https://portal.ehden.eu/
+Harvey Walsh Ltd,https://www.harveywalsh.co.uk/,Harvey Walsh Ltd,TRUE,FALSE,FALSE,HES,Secondary,General,https://portal.ehden.eu/
+Imperial College Healthcare NHS Trust,https://www.imperial.nhs.uk/,Imperial College Healthcare NHS Trust,FALSE,FALSE,FALSE,ICHT Core Data,"Primary, Secondary, Tertiary",General,
+Imperial College London,https://www.imperial.ac.uk/,Imperial College London,FALSE,TRUE,FALSE,REACT-2,Cohort,COVID,https://www.healthdatagateway.org/
+Imperial College London,https://www.imperial.ac.uk/neonatal-data-analysis-unit/neonatal-data-analysis-unit/,Imperial College London,TRUE,TRUE,FALSE,NNRD,Secondary +,Neonatal,"https://portal.ehden.eu/, https://www.healthdatagateway.org/"
+IQVIA,https://www.iqvia.com/,IQVIA,FALSE,FALSE,FALSE,IMRD,,,
+ISARIC4C,https://isaric4c.net/,ISARIC4C,FALSE,FALSE,TRUE,CO-CIN,Registry,COVID,https://www.healthdatagateway.org/
+King's College London/Guy's and St Thomas' NHS Foundation Trust,https://www.kcl.ac.uk/research/stroke-research-group,King's College London/Guy's and St Thomas' NHS Foundation Trust,TRUE,FALSE,FALSE,SLSR,Registry,Stroke,https://portal.ehden.eu/
+Lancashire Teaching Hospitals NHS Foundation Trust,https://www.lancsteachinghospitals.nhs.uk/,Lancashire Teaching Hospitals NHS Foundation Trust,FALSE,FALSE,FALSE,"EPR data warehouse (Phase 1 completed) (FlexDW) [Demographics, Visits, Conditions, Measurements, Observations, Drugs. All above from secondary care.]",Secondary,General,
+,,,FALSE,FALSE,FALSE,Somerset Cancer Registry (in progress) (CancerTrack),Registry,Cancer,
+Leeds Teaching Hospitals NHS Trust,https://www.leedsth.nhs.uk/,Leeds Teaching Hospitals NHS Trust,TRUE,FALSE,FALSE,LTHT,Inpatient (hospital) care,General,https://portal.ehden.eu/
+National Joint Registry (HQIP),https://www.njrcentre.org.uk/,National Joint Registry (HQIP),FALSE,FALSE,FALSE,National Joint Registry NJR,Registry,Joint replacement,
+NIHR BioResource,https://bioresource.nihr.ac.uk/,NIHR BioResource,FALSE,FALSE,TRUE,Sample holding,Biobank,General,https://www.healthdatagateway.org/
+Optimum Patient Care,https://www.optimumpatientcare.org/,Optimum Patient Care,TRUE,TRUE,FALSE,Optimum Patient Care Research Database,Outpatient general practitioner care,General,"https://portal.ehden.eu/, https://www.healthdatagateway.org/"
+Oxford University Hospitals,https://www.ouh.nhs.uk/,Oxford University Hospitals,FALSE,TRUE,FALSE,Oxford Healthcare Workers,Cohort,COVID,https://www.healthdatagateway.org/
+PIONEER,https://www.pioneerdatahub.co.uk/,PIONEER,FALSE,TRUE,FALSE,CRP,Registry,COVID,https://www.healthdatagateway.org/
+,,,FALSE,,FALSE,Hospital COVID patients,Registry,COVID,
+,,,FALSE,,FALSE,Ventilatory strategies and outcomes,Registry,COVID,
+,,,FALSE,,FALSE,COPD,Registry,COVID,
+,,,FALSE,,FALSE,Coagulopathies & thrombosis,Registry,COVID,
+Public Health Scotland,https://publichealthscotland.scot/,Public Health Scotland,FALSE,FALSE,TRUE,Scottish Cancer Registry (SMR06),Registry,Cancer,https://www.healthdatagateway.org/
+,,,FALSE,FALSE,,Scottish Morbidity Record (SMR00),Secondary,General,
+,,,FALSE,FALSE,,NRS - Deaths Data,Other,Deaths,
+,,,FALSE,FALSE,,COVID Tests,Other,COVID,
+,,,FALSE,FALSE,,Scottish Covid-19 Vaccination Data,Other,COVID,
+Queen Mary University of London,https://www.qmul.ac.uk/,Queen Mary University of London,TRUE,FALSE,FALSE,National Hip Fracture Database (England and Wales),Registry,Hip fractures,https://portal.ehden.eu/
+,,,TRUE,FALSE,FALSE,Fracture Liaison Service Database,Registry,Fragility fracture,https://portal.ehden.eu/
+"Oxford University, Royal College of General Practitioners Research and Surveillance Centre",https://orchid.phc.ox.ac.uk/surveillance,"Oxford University, Royal College of General Practitioners Research and Surveillance Centre",TRUE,FALSE,FALSE,ORCHID,Primary,General,https://portal.ehden.eu/
+SAIL Databank,https://saildatabank.com/,SAIL Databank,FALSE,FALSE,TRUE,Covid Vaccination Dataset (CVVD),Other,COVID,https://www.healthdatagateway.org/
+,,,TRUE,,,NCCH,Outpatient general practitioner care/Registry,,
+,,,TRUE,,,COVID-19 Test Results (PATD),Other,COVID,#VALUE!
+South East London Integrated Care Board,https://www.selondonics.org/icb/,South East London Integrated Care Board,TRUE,FALSE,,LDN,Outpatient general practitioner care,General,https://portal.ehden.eu/
+TwinsUK,https://twinsuk.ac.uk/,TwinsUK,FALSE,FALSE,TRUE,TwinsUK,Cohort,General,https://www.healthdatagateway.org/
+UK Health Security Agency,https://www.gov.uk/government/organisations/uk-health-security-agency,UK Health Security Agency,FALSE,TRUE,FALSE,SIREN,Cohort,COVID,https://www.healthdatagateway.org/
+University College London,https://www.ucl.ac.uk/,University College London,TRUE,,FALSE,UK Biobank,Biobank,General,https://portal.ehden.eu/
+,,,FALSE,TRUE,FALSE,VIVALDI 2,Cohort,COVID,https://www.healthdatagateway.org/
+,,,FALSE,TRUE,TRUE,COVIDsortium,Cohort,COVID,https://www.healthdatagateway.org/
+UCLH,https://www.uclhospitals.brc.nihr.ac.uk/clinical-research-informatics-unit,UCLH,FALSE,FALSE,FALSE,Critical Care Dataset,Secondary,General,
+,,,TRUE,,FALSE,General Inpatient Dataset (EHDEN),Inpatient (hospital) care,General,https://portal.ehden.eu/
+,,,FALSE,,FALSE,Myeloma Dataset,?Registry,Cancer,
+,,,FALSE,,FALSE,Sepsis Research Dataset,?Registry,Sepsis,
+,,,FALSE,,FALSE,Blood Transfusion and TDA Dataset,?Registry,Blood transfusion,
+University of Cambridge,https://www.cam.ac.uk/,University of Cambridge,FALSE,TRUE,TRUE,TRACK-COVID,Cohort,COVID,https://www.healthdatagateway.org/
+University of Dundee Health Informatics Centre (HIC),https://www.dundee.ac.uk/hic,University of Dundee Health Informatics Centre (HIC),FALSE,FALSE,TRUE,Follow-COVID,Cohort,COVID,https://www.healthdatagateway.org/
+,,,FALSE,FALSE,,MATCH,Cohort,COVID,
+,,,TRUE,,,HIC,Outpatient specialist care/Pharmacy care/Registry/Other,,
+University of Edinburgh (DataLoch),https://dataloch.org/,University of Edinburgh (DataLoch),FALSE,TRUE,FALSE,Cancer (SESCD),Secondary,Cancer,https://www.healthdatagateway.org/
+,,,TRUE,FALSE,FALSE,COVID19,Other,COVID,https://portal.ehden.eu/
+,,,FALSE,FALSE,FALSE,EiC dataset,,,
+University Hospitals Birmingham NHS Foundation Trust ,https://www.uhb.nhs.uk/,University Hospitals Birmingham NHS Foundation Trust ,FALSE,FALSE,FALSE,DECOVID,,,
+,,,FALSE,,FALSE,TBA,,,
+University Of Nottingham,https://www.nottingham.ac.uk/,University Of Nottingham,FALSE,TRUE,TRUE,ACE,Cohort,COVID,https://www.healthdatagateway.org/
+,,,FALSE,TRUE,TRUE,PANTHER,Cohort,COVID,https://www.healthdatagateway.org/
+,,,FALSE,FALSE,TRUE,GOAL,Registry,Osteoarthritis,https://www.healthdatagateway.org/
+,,,FALSE,FALSE,TRUE,Omega 3 Cohort,Cohort,Nutrition,https://www.healthdatagateway.org/
+Wessex SNSDE,https://wessexhealthpartners.org.uk/,Wessex SNSDE,FALSE,FALSE,FALSE,COVID,,,
+,,,FALSE,FALSE,FALSE,Clinical trials are being considered that have completed,,,
+,,,FALSE,FALSE,FALSE,ECRIN,,,
+,,,FALSE,FALSE,FALSE,HICS submissions,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
