@@ -1,106 +1,82 @@
-Organisation,Organisation link,Dataset on portal?,Dataset on Gateway?,Cohort Discovery?,Data set,Care type,Health area
-Akrivia Health,https://akriviahealth.com,True,False,False,Akrivia (AKRDB),Secondary,Mental health
-Avon Longitudinal Study of Parents and Children,https://www.bristol.ac.uk/alspac/,False,False,True,ALSPAC,Cohort,General
-Barts Health NHS Trust,https://www.bartshealth.nhs.uk/,True,False,False,Barts,Inpatient (hospital) care/Outpatient specialist care/Pharmacy care,General
-BREATHE,https://www.ed.ac.uk/usher/breathe,False,False,True,Genetics of Asthma Severity & Phenotypes,Cohort,Asthma
-Clinical Practice Research Datalink,https://www.cprd.com/,True,False,False,CPRD Aurum,Primary,General
-Clinical Practice Research Datalink,https://www.cprd.com/,True,False,False,CPRD Aurum linked HES APC data,Primary + Inpatient,General
-Connected Bradford,https://www.bradfordresearch.nhs.uk/our-research-teams/connected-bradford/,True,False,False,cBradford,Inpatient (hospital) care/Outpatient general practitioner care/Outpatient specialist care/Long term/ skill nursing facility care/Pharmacy care/Other,General
-BHF Data Science Centre (CVD-COVID-UK/COVID-IMPACT),https://bhfdatasciencecentre.org/,False,False,False,HES-APC,Inpatient,General
-BHF Data Science Centre (CVD-COVID-UK/COVID-IMPACT),https://bhfdatasciencecentre.org/,False,False,False,Death registrations,Other,Deaths
-BHF Data Science Centre (CVD-COVID-UK/COVID-IMPACT),https://bhfdatasciencecentre.org/,False,False,False,GPES,Primary,Pandemic
-BHF Data Science Centre (CVD-COVID-UK/COVID-IMPACT),https://bhfdatasciencecentre.org/,False,False,False,NICOR,Registry,Heart failure
-Discover-NOW,https://discover-now.co.uk/,False,False,False,Discover-NOW,Primary,General
-Eastern AHSN (Academic Health Science Network),https://healthinnovationeast.co.uk/,False,False,False,?,?,?
-Generation Scotland,https://www.ed.ac.uk/generation-scotland,False,False,True,GS:SFHS,Cohort,General
-Genomics England,https://www.genomicsengland.co.uk/,False,False,False,NHSD HES datasets,Various,"Cancer, rare diseases, COVID"
-Genomics England,https://www.genomicsengland.co.uk/,False,True,False,"100,000 Genomes",Various,"Cancer, rare diseases, COVID"
-Genomics England,https://www.genomicsengland.co.uk/,False,False,False,Internal Cancer and Rare Disease datasets,Various,"Cancer, rare diseases, COVID"
-Genomics England,https://www.genomicsengland.co.uk/,False,False,False,NCRAS,Various,"Cancer, rare diseases, COVID"
-Genomics England,https://www.genomicsengland.co.uk/,False,False,False,NHSD Cancer datasets,Various,"Cancer, rare diseases, COVID"
-Genomics England,https://www.genomicsengland.co.uk/,False,False,False,UKHSA COVID Test Results,Various,"Cancer, rare diseases, COVID"
-Great Ormond Street Hospital,https://www.gosh.nhs.uk/,False,False,False,"GOSH Epic data (2019-2023) demographics, visits, medication administrations, diagnoses, procedures",Secondary,Paediatric
-Great Ormond Street Hospital,https://www.gosh.nhs.uk/,False,True,True,Co-STARS,Cohort,COVID
-Guy’s & St Thomas’ Hospital NHS Foundation Trust,https://www.guysandstthomas.nhs.uk/,True,False,False,NHIC RENAL GSTT,Registry,Renal transplantation
-Harvey Walsh Ltd,https://www.harveywalsh.co.uk/,True,False,False,HES,Secondary,General
-Imperial College Healthcare NHS Trust,https://www.imperial.nhs.uk/,False,False,False,ICHT Core Data,"Primary, Secondary, Tertiary",General
-Imperial College London,https://www.imperial.ac.uk/,False,True,False,REACT-2,Cohort,COVID
-Imperial College London,https://www.imperial.ac.uk/neonatal-data-analysis-unit/neonatal-data-analysis-unit/,True,True,False,NNRD,Secondary +,Neonatal
-IQVIA,https://www.iqvia.com/,False,False,False,IMRD,Secondary +,Neonatal
-ISARIC4C,https://isaric4c.net/,False,False,True,CO-CIN,Registry,COVID
-King's College London/Guy's and St Thomas' NHS Foundation Trust,https://www.kcl.ac.uk/research/stroke-research-group,True,False,False,SLSR,Registry,Stroke
-Lancashire Teaching Hospitals NHS Foundation Trust,https://www.lancsteachinghospitals.nhs.uk/,False,False,False,"EPR data warehouse (Phase 1 completed) (FlexDW) [Demographics, Visits, Conditions, Measurements, Observations, Drugs. All above from secondary care.]",Secondary,General
-Lancashire Teaching Hospitals NHS Foundation Trust,https://www.lancsteachinghospitals.nhs.uk/,False,False,False,Somerset Cancer Registry (in progress) (CancerTrack),Registry,Cancer
-Leeds Teaching Hospitals NHS Trust,https://www.leedsth.nhs.uk/,True,False,False,LTHT,Inpatient (hospital) care,General
-National Joint Registry (HQIP),https://www.njrcentre.org.uk/,False,False,False,National Joint Registry NJR,Registry,Joint replacement
-NIHR BioResource,https://bioresource.nihr.ac.uk/,False,False,True,Sample holding,Biobank,General
-Optimum Patient Care,https://www.optimumpatientcare.org/,True,True,False,Optimum Patient Care Research Database,Outpatient general practitioner care,General
-Oxford University Hospitals,https://www.ouh.nhs.uk/,False,True,False,Oxford Healthcare Workers,Cohort,COVID
-PIONEER,https://www.pioneerdatahub.co.uk/,False,True,False,CRP,Registry,COVID
-PIONEER,https://www.pioneerdatahub.co.uk/,False,True,False,Hospital COVID patients,Registry,COVID
-PIONEER,https://www.pioneerdatahub.co.uk/,False,True,False,Ventilatory strategies and outcomes,Registry,COVID
-PIONEER,https://www.pioneerdatahub.co.uk/,False,True,False,COPD,Registry,COVID
-PIONEER,https://www.pioneerdatahub.co.uk/,False,True,False,Coagulopathies & thrombosis,Registry,COVID
-Public Health Scotland,https://publichealthscotland.scot/,False,False,True,Scottish Cancer Registry (SMR06),Registry,Cancer
-Public Health Scotland,https://publichealthscotland.scot/,False,False,True,Scottish Morbidity Record (SMR00),Secondary,General
-Public Health Scotland,https://publichealthscotland.scot/,False,False,True,NRS - Deaths Data,Other,Deaths
-Public Health Scotland,https://publichealthscotland.scot/,False,False,True,COVID Tests,Other,COVID
-Public Health Scotland,https://publichealthscotland.scot/,False,False,True,Scottish Covid-19 Vaccination Data,Other,COVID
-Queen Mary University of London,https://www.qmul.ac.uk/,True,False,False,National Hip Fracture Database (England and Wales),Registry,Hip fractures
-Queen Mary University of London,https://www.qmul.ac.uk/,True,False,False,Fracture Liaison Service Database,Registry,Fragility fracture
-"Oxford University, Royal College of General Practitioners Research and Surveillance Centre",https://orchid.phc.ox.ac.uk/surveillance,True,False,False,ORCHID,Primary,General
-SAIL Databank,https://saildatabank.com/,False,False,True,Covid Vaccination Dataset (CVVD),Other,COVID
-SAIL Databank,https://saildatabank.com/,True,False,True,NCCH,Outpatient general practitioner care/Registry,COVID
-SAIL Databank,https://saildatabank.com/,True,False,True,COVID-19 Test Results (PATD),Other,COVID
-South East London Integrated Care Board,https://www.selondonics.org/icb/,True,False,True,LDN,Outpatient general practitioner care,General
-TwinsUK,https://twinsuk.ac.uk/,False,False,True,TwinsUK,Cohort,General
-UK Health Security Agency,https://www.gov.uk/government/organisations/uk-health-security-agency,False,True,False,SIREN,Cohort,COVID
-University College London,https://www.ucl.ac.uk/,True,True,False,UK Biobank,Biobank,General
-University College London,https://www.ucl.ac.uk/,False,True,False,VIVALDI 2,Cohort,COVID
-University College London,https://www.ucl.ac.uk/,False,True,True,COVIDsortium,Cohort,COVID
-UCLH,https://www.uclhospitals.brc.nihr.ac.uk/clinical-research-informatics-unit,False,False,False,Critical Care Dataset,Secondary,General
-UCLH,https://www.uclhospitals.brc.nihr.ac.uk/clinical-research-informatics-unit,True,False,False,General Inpatient Dataset (EHDEN),Inpatient (hospital) care,General
-UCLH,https://www.uclhospitals.brc.nihr.ac.uk/clinical-research-informatics-unit,False,False,False,Myeloma Dataset,?Registry,Cancer
-UCLH,https://www.uclhospitals.brc.nihr.ac.uk/clinical-research-informatics-unit,False,False,False,Sepsis Research Dataset,?Registry,Sepsis
-UCLH,https://www.uclhospitals.brc.nihr.ac.uk/clinical-research-informatics-unit,False,False,False,Blood Transfusion and TDA Dataset,?Registry,Blood transfusion
-University of Cambridge,https://www.cam.ac.uk/,False,True,True,TRACK-COVID,Cohort,COVID
-University of Dundee Health Informatics Centre (HIC),https://www.dundee.ac.uk/hic,False,False,True,Follow-COVID,Cohort,COVID
-University of Dundee Health Informatics Centre (HIC),https://www.dundee.ac.uk/hic,False,False,True,MATCH,Cohort,COVID
-University of Dundee Health Informatics Centre (HIC),https://www.dundee.ac.uk/hic,True,False,True,HIC,Outpatient specialist care/Pharmacy care/Registry/Other,COVID
-University of Edinburgh (DataLoch),https://dataloch.org/,False,True,False,Cancer (SESCD),Secondary,Cancer
-University of Edinburgh (DataLoch),https://dataloch.org/,True,False,False,COVID19,Other,COVID
-University of Edinburgh (DataLoch),https://dataloch.org/,False,False,False,EiC dataset,Other,COVID
-University Hospitals Birmingham NHS Foundation Trust ,https://www.uhb.nhs.uk/,False,False,False,DECOVID,Other,COVID
-University Hospitals Birmingham NHS Foundation Trust ,https://www.uhb.nhs.uk/,False,False,False,TBA,Other,COVID
-University Of Nottingham,https://www.nottingham.ac.uk/,False,True,True,ACE,Cohort,COVID
-University Of Nottingham,https://www.nottingham.ac.uk/,False,True,True,PANTHER,Cohort,COVID
-University Of Nottingham,https://www.nottingham.ac.uk/,False,False,True,GOAL,Registry,Osteoarthritis
-University Of Nottingham,https://www.nottingham.ac.uk/,False,False,True,Omega 3 Cohort,Cohort,Nutrition
-Wessex SNSDE,https://wessexhealthpartners.org.uk/,False,False,False,COVID,Cohort,Nutrition
-Wessex SNSDE,https://wessexhealthpartners.org.uk/,False,False,False,Clinical trials are being considered that have completed,Cohort,Nutrition
-Wessex SNSDE,https://wessexhealthpartners.org.uk/,False,False,False,ECRIN,Cohort,Nutrition
-Wessex SNSDE,https://wessexhealthpartners.org.uk/,False,False,False,HICS submissions,Cohort,Nutrition
-Wessex SNSDE,https://wessexhealthpartners.org.uk/,False,False,False,HICS submissions,Cohort,Nutrition
-Wessex SNSDE,https://wessexhealthpartners.org.uk/,False,False,False,HICS submissions,Cohort,Nutrition
-Wessex SNSDE,https://wessexhealthpartners.org.uk/,False,False,False,HICS submissions,Cohort,Nutrition
-Wessex SNSDE,https://wessexhealthpartners.org.uk/,False,False,False,HICS submissions,Cohort,Nutrition
-Wessex SNSDE,https://wessexhealthpartners.org.uk/,False,False,False,HICS submissions,Cohort,Nutrition
-Wessex SNSDE,https://wessexhealthpartners.org.uk/,False,False,False,HICS submissions,Cohort,Nutrition
-Wessex SNSDE,https://wessexhealthpartners.org.uk/,False,False,False,HICS submissions,Cohort,Nutrition
-Wessex SNSDE,https://wessexhealthpartners.org.uk/,False,False,False,HICS submissions,Cohort,Nutrition
-Wessex SNSDE,https://wessexhealthpartners.org.uk/,False,False,False,HICS submissions,Cohort,Nutrition
-Wessex SNSDE,https://wessexhealthpartners.org.uk/,False,False,False,HICS submissions,Cohort,Nutrition
-Wessex SNSDE,https://wessexhealthpartners.org.uk/,False,False,False,HICS submissions,Cohort,Nutrition
-Wessex SNSDE,https://wessexhealthpartners.org.uk/,False,False,False,HICS submissions,Cohort,Nutrition
-Wessex SNSDE,https://wessexhealthpartners.org.uk/,False,False,False,HICS submissions,Cohort,Nutrition
-Wessex SNSDE,https://wessexhealthpartners.org.uk/,False,False,False,HICS submissions,Cohort,Nutrition
-Wessex SNSDE,https://wessexhealthpartners.org.uk/,False,False,False,HICS submissions,Cohort,Nutrition
-Wessex SNSDE,https://wessexhealthpartners.org.uk/,False,False,False,HICS submissions,Cohort,Nutrition
-Wessex SNSDE,https://wessexhealthpartners.org.uk/,False,False,False,HICS submissions,Cohort,Nutrition
-Wessex SNSDE,https://wessexhealthpartners.org.uk/,False,False,False,HICS submissions,Cohort,Nutrition
-Wessex SNSDE,https://wessexhealthpartners.org.uk/,False,False,False,HICS submissions,Cohort,Nutrition
-Wessex SNSDE,https://wessexhealthpartners.org.uk/,False,False,False,HICS submissions,Cohort,Nutrition
-Wessex SNSDE,https://wessexhealthpartners.org.uk/,False,False,False,HICS submissions,Cohort,Nutrition
-Wessex SNSDE,https://wessexhealthpartners.org.uk/,False,False,False,HICS submissions,Cohort,Nutrition
-Wessex SNSDE,https://wessexhealthpartners.org.uk/,False,False,False,HICS submissions,Cohort,Nutrition
-Wessex SNSDE,https://wessexhealthpartners.org.uk/,False,False,False,HICS submissions,Cohort,Nutrition
+Organisation name,Data set,Care type,Health area,EHDEN,Gateway
+https://akriviahealth.com||Akrivia Health,Akrivia (AKRDB),Secondary,Mental health,https://portal.ehden.eu/||EHDEN,
+https://www.bristol.ac.uk/alspac/||Avon Longitudinal Study of Parents and Children,ALSPAC,Cohort,General,,
+https://www.bartshealth.nhs.uk/||Barts Health NHS Trust,Barts,Inpatient (hospital) care/Outpatient specialist care/Pharmacy care,General,https://portal.ehden.eu/||EHDEN,
+https://www.ed.ac.uk/usher/breathe||BREATHE,Genetics of Asthma Severity & Phenotypes,Cohort,Asthma,,
+https://www.cprd.com/||Clinical Practice Research Datalink,CPRD Aurum,Primary,General,https://portal.ehden.eu/||EHDEN,
+https://www.cprd.com/||Clinical Practice Research Datalink,CPRD Aurum linked HES APC data,Primary + Inpatient,General,https://portal.ehden.eu/||EHDEN,
+https://www.bradfordresearch.nhs.uk/our-research-teams/connected-bradford/||Connected Bradford,cBradford,Inpatient (hospital) care/Outpatient general practitioner care/Outpatient specialist care/Long term/ skill nursing facility care/Pharmacy care/Other,General,https://portal.ehden.eu/||EHDEN,
+https://bhfdatasciencecentre.org/||BHF Data Science Centre (CVD-COVID-UK/COVID-IMPACT),HES-APC,Inpatient,General,,
+https://bhfdatasciencecentre.org/||BHF Data Science Centre (CVD-COVID-UK/COVID-IMPACT),Death registrations,Other,Deaths,,
+https://bhfdatasciencecentre.org/||BHF Data Science Centre (CVD-COVID-UK/COVID-IMPACT),GPES,Primary,Pandemic,,
+https://bhfdatasciencecentre.org/||BHF Data Science Centre (CVD-COVID-UK/COVID-IMPACT),NICOR,Registry,Heart failure,,
+https://discover-now.co.uk/||Discover-NOW,Discover-NOW,Primary,General,,
+https://healthinnovationeast.co.uk/||Eastern AHSN (Academic Health Science Network),?,?,?,,
+https://www.ed.ac.uk/generation-scotland||Generation Scotland,GS:SFHS,Cohort,General,,
+https://www.genomicsengland.co.uk/||Genomics England,NHSD HES datasets,Various,"Cancer, rare diseases, COVID",,
+https://www.genomicsengland.co.uk/||Genomics England,"100,000 Genomes",,,,https://www.healthdatagateway.org/||Gateway
+https://www.genomicsengland.co.uk/||Genomics England,Internal Cancer and Rare Disease datasets,,,,
+https://www.genomicsengland.co.uk/||Genomics England,NCRAS,,,,
+https://www.genomicsengland.co.uk/||Genomics England,NHSD Cancer datasets,,,,
+https://www.genomicsengland.co.uk/||Genomics England,UKHSA COVID Test Results,,,,
+https://www.gosh.nhs.uk/||Great Ormond Street Hospital,"GOSH Epic data (2019-2023) demographics, visits, medication administrations, diagnoses, procedures",Secondary,Paediatric,,
+https://www.gosh.nhs.uk/||Great Ormond Street Hospital,Co-STARS,Cohort,COVID,,https://www.healthdatagateway.org/||Gateway
+https://www.guysandstthomas.nhs.uk/||Guy’s & St Thomas’ Hospital NHS Foundation Trust,NHIC RENAL GSTT,Registry,Renal transplantation,https://portal.ehden.eu/||EHDEN,
+https://www.harveywalsh.co.uk/||Harvey Walsh Ltd,HES,Secondary,General,https://portal.ehden.eu/||EHDEN,
+https://www.imperial.nhs.uk/||Imperial College Healthcare NHS Trust,ICHT Core Data,"Primary, Secondary, Tertiary",General,,
+https://www.imperial.ac.uk/||Imperial College London,REACT-2,Cohort,COVID,,https://www.healthdatagateway.org/||Gateway
+https://www.imperial.ac.uk/neonatal-data-analysis-unit/neonatal-data-analysis-unit/||Imperial College London,NNRD,Secondary +,Neonatal,https://portal.ehden.eu/||EHDEN,https://www.healthdatagateway.org/||Gateway
+https://www.iqvia.com/||IQVIA,IMRD,,,,
+https://isaric4c.net/||ISARIC4C,CO-CIN,Registry,COVID,,
+https://www.kcl.ac.uk/research/stroke-research-group||King's College London/Guy's and St Thomas' NHS Foundation Trust,SLSR,Registry,Stroke,https://portal.ehden.eu/||EHDEN,
+https://www.lancsteachinghospitals.nhs.uk/||Lancashire Teaching Hospitals NHS Foundation Trust,"EPR data warehouse (Phase 1 completed) (FlexDW) [Demographics, Visits, Conditions, Measurements, Observations, Drugs. All above from secondary care.]",Secondary,General,,
+https://www.lancsteachinghospitals.nhs.uk/||Lancashire Teaching Hospitals NHS Foundation Trust,Somerset Cancer Registry (in progress) (CancerTrack),Registry,Cancer,,
+https://www.leedsth.nhs.uk/||Leeds Teaching Hospitals NHS Trust,LTHT,Inpatient (hospital) care,General,https://portal.ehden.eu/||EHDEN,
+https://www.njrcentre.org.uk/||National Joint Registry (HQIP),National Joint Registry NJR,Registry,Joint replacement,,
+https://bioresource.nihr.ac.uk/||NIHR BioResource,Sample holding,Biobank,General,,
+https://www.optimumpatientcare.org/||Optimum Patient Care,Optimum Patient Care Research Database,Outpatient general practitioner care,General,https://portal.ehden.eu/||EHDEN,https://www.healthdatagateway.org/||Gateway
+https://www.ouh.nhs.uk/||Oxford University Hospitals,Oxford Healthcare Workers,Cohort,COVID,,https://www.healthdatagateway.org/||Gateway
+https://www.pioneerdatahub.co.uk/||PIONEER,CRP,Registry,COVID,,https://www.healthdatagateway.org/||Gateway
+https://www.pioneerdatahub.co.uk/||PIONEER,Hospital COVID patients,Registry,COVID,,
+https://www.pioneerdatahub.co.uk/||PIONEER,Ventilatory strategies and outcomes,Registry,COVID,,
+https://www.pioneerdatahub.co.uk/||PIONEER,COPD,Registry,COVID,,
+https://www.pioneerdatahub.co.uk/||PIONEER,Coagulopathies & thrombosis,Registry,COVID,,
+https://publichealthscotland.scot/||Public Health Scotland,Scottish Cancer Registry (SMR06),Registry,Cancer,,
+https://publichealthscotland.scot/||Public Health Scotland,Scottish Morbidity Record (SMR00),Secondary,General,,
+https://publichealthscotland.scot/||Public Health Scotland,NRS - Deaths Data,Other,Deaths,,
+https://publichealthscotland.scot/||Public Health Scotland,COVID Tests,Other,COVID,,
+https://publichealthscotland.scot/||Public Health Scotland,Scottish Covid-19 Vaccination Data,Other,COVID,,
+https://www.qmul.ac.uk/||Queen Mary University of London,National Hip Fracture Database (England and Wales),Registry,Hip fractures,https://portal.ehden.eu/||EHDEN,
+https://www.qmul.ac.uk/||Queen Mary University of London,Fracture Liaison Service Database,Registry,Fragility fracture,https://portal.ehden.eu/||EHDEN,
+"https://orchid.phc.ox.ac.uk/surveillance||Oxford University, Royal College of General Practitioners Research and Surveillance Centre",ORCHID,Primary,General,https://portal.ehden.eu/||EHDEN,
+https://saildatabank.com/||SAIL Databank,Covid Vaccination Dataset (CVVD),Other,COVID,,
+https://saildatabank.com/||SAIL Databank,NCCH,Outpatient general practitioner care/Registry,,https://portal.ehden.eu/||EHDEN,
+https://saildatabank.com/||SAIL Databank,COVID-19 Test Results (PATD),Other,COVID,https://portal.ehden.eu/||EHDEN,
+https://www.selondonics.org/icb/||South East London Integrated Care Board,LDN,Outpatient general practitioner care,General,https://portal.ehden.eu/||EHDEN,
+https://twinsuk.ac.uk/||TwinsUK,TwinsUK,Cohort,General,,
+https://www.gov.uk/government/organisations/uk-health-security-agency||UK Health Security Agency,SIREN,Cohort,COVID,,https://www.healthdatagateway.org/||Gateway
+https://www.ucl.ac.uk/||University College London,UK Biobank,Biobank,General,https://portal.ehden.eu/||EHDEN,
+https://www.ucl.ac.uk/||University College London,VIVALDI 2,Cohort,COVID,,https://www.healthdatagateway.org/||Gateway
+https://www.ucl.ac.uk/||University College London,COVIDsortium,Cohort,COVID,,https://www.healthdatagateway.org/||Gateway
+https://www.uclhospitals.brc.nihr.ac.uk/clinical-research-informatics-unit||UCLH,Critical Care Dataset,Secondary,General,,
+https://www.uclhospitals.brc.nihr.ac.uk/clinical-research-informatics-unit||UCLH,General Inpatient Dataset (EHDEN),Inpatient (hospital) care,General,https://portal.ehden.eu/||EHDEN,
+https://www.uclhospitals.brc.nihr.ac.uk/clinical-research-informatics-unit||UCLH,Myeloma Dataset,?Registry,Cancer,,
+https://www.uclhospitals.brc.nihr.ac.uk/clinical-research-informatics-unit||UCLH,Sepsis Research Dataset,?Registry,Sepsis,,
+https://www.uclhospitals.brc.nihr.ac.uk/clinical-research-informatics-unit||UCLH,Blood Transfusion and TDA Dataset,?Registry,Blood transfusion,,
+https://www.cam.ac.uk/||University of Cambridge,TRACK-COVID,Cohort,COVID,,https://www.healthdatagateway.org/||Gateway
+https://www.dundee.ac.uk/hic||University of Dundee Health Informatics Centre (HIC),Follow-COVID,Cohort,COVID,,
+https://www.dundee.ac.uk/hic||University of Dundee Health Informatics Centre (HIC),MATCH,Cohort,COVID,,
+https://www.dundee.ac.uk/hic||University of Dundee Health Informatics Centre (HIC),HIC,Outpatient specialist care/Pharmacy care/Registry/Other,,https://portal.ehden.eu/||EHDEN,
+https://dataloch.org/||University of Edinburgh (DataLoch),Cancer (SESCD),Secondary,Cancer,,https://www.healthdatagateway.org/||Gateway
+https://dataloch.org/||University of Edinburgh (DataLoch),COVID19,Other,COVID,https://portal.ehden.eu/||EHDEN,
+https://dataloch.org/||University of Edinburgh (DataLoch),EiC dataset,,,,
+https://www.uhb.nhs.uk/||University Hospitals Birmingham NHS Foundation Trust ,DECOVID,,,,
+https://www.uhb.nhs.uk/||University Hospitals Birmingham NHS Foundation Trust ,TBA,,,,
+https://www.nottingham.ac.uk/||University Of Nottingham,ACE,Cohort,COVID,,https://www.healthdatagateway.org/||Gateway
+https://www.nottingham.ac.uk/||University Of Nottingham,PANTHER,Cohort,COVID,,https://www.healthdatagateway.org/||Gateway
+https://www.nottingham.ac.uk/||University Of Nottingham,GOAL,Registry,Osteoarthritis,,
+https://www.nottingham.ac.uk/||University Of Nottingham,Omega 3 Cohort,Cohort,Nutrition,,
+https://wessexhealthpartners.org.uk/||Wessex SNSDE,COVID,,,,
+https://wessexhealthpartners.org.uk/||Wessex SNSDE,Clinical trials are being considered that have completed,,,,
+https://wessexhealthpartners.org.uk/||Wessex SNSDE,ECRIN,,,,
+https://wessexhealthpartners.org.uk/||Wessex SNSDE,HICS submissions,,,,
