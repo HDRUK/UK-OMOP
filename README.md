@@ -12,6 +12,6 @@ This repository includes the following files:
 - [JSON file](datasets.json) Converted from CSV file
 - [Jupyter Notebook](csv_to_json.ipynb) to convert CSV file to JSON format
 
-The current plan is that the JSON file will be linked to from the [Alliance CDM web page](https://ukhealthdata.org/data-standards/common-data-models/). This is the version that should be edited to make any changes to the table.
+This JSON file is linked to from the page [Directory of UK OMOP Data Sets](https://ukhealthdata.org/data-standards/directory-of-omop-data-sets-in-the-uk/). The JSON file should be edited to make any necessary changes to the table. This is currently pre-release; releases will be linked to Zenodo and each will have their own DOI.
 
 Questions? Please contact [Alex Knight](mailto:alex.knight@hdruk.ac.uk) or [UK Alliance](mailto:ukalliance@hdruk.ac.uk)
