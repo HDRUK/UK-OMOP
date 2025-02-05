@@ -122,40 +122,40 @@
     {
         "Organisation name": "https://www.genomicsengland.co.uk/||Genomics England",
         "Data set": "100,000 Genomes",
-        "Care type": null,
-        "Health area": null,
+        "Care type": "",
+        "Health area": "",
         "EHDEN": "",
         "Gateway": "https://www.healthdatagateway.org/||Gateway"
     },
     {
         "Organisation name": "https://www.genomicsengland.co.uk/||Genomics England",
         "Data set": "Internal Cancer and Rare Disease datasets",
-        "Care type": null,
-        "Health area": null,
+        "Care type": "",
+        "Health area": "",
         "EHDEN": "",
         "Gateway": ""
     },
     {
         "Organisation name": "https://www.genomicsengland.co.uk/||Genomics England",
         "Data set": "NCRAS",
-        "Care type": null,
-        "Health area": null,
+        "Care type": "",
+        "Health area": "",
         "EHDEN": "",
         "Gateway": ""
     },
     {
         "Organisation name": "https://www.genomicsengland.co.uk/||Genomics England",
         "Data set": "NHSD Cancer datasets",
-        "Care type": null,
-        "Health area": null,
+        "Care type": "",
+        "Health area": "",
         "EHDEN": "",
         "Gateway": ""
     },
     {
         "Organisation name": "https://www.genomicsengland.co.uk/||Genomics England",
         "Data set": "UKHSA COVID Test Results",
-        "Care type": null,
-        "Health area": null,
+        "Care type": "",
+        "Health area": "",
         "EHDEN": "",
         "Gateway": ""
     },
@@ -218,8 +218,8 @@
     {
         "Organisation name": "https://www.iqvia.com/||IQVIA",
         "Data set": "IMRD",
-        "Care type": null,
-        "Health area": null,
+        "Care type": "",
+        "Health area": "",
         "EHDEN": "",
         "Gateway": ""
     },
@@ -241,17 +241,9 @@
     },
     {
         "Organisation name": "https://www.lancsteachinghospitals.nhs.uk/||Lancashire Teaching Hospitals NHS Foundation Trust",
-        "Data set": "EPR data warehouse (Phase 1 completed) (FlexDW) [Demographics, Visits, Conditions, Measurements, Observations, Drugs. All above from secondary care.]",
-        "Care type": "Secondary",
-        "Health area": "General",
-        "EHDEN": "",
-        "Gateway": ""
-    },
-    {
-        "Organisation name": "https://www.lancsteachinghospitals.nhs.uk/||Lancashire Teaching Hospitals NHS Foundation Trust",
-        "Data set": "Somerset Cancer Registry (in progress) (CancerTrack)",
-        "Care type": "Registry",
-        "Health area": "Cancer",
+        "Data set": "IDRIL-1",
+        "Care type": "Secondary,General EHR, Cancer, Drugs, Devices",
+        "Health area": "https://portal.ehden.eu/||EHDEN",
         "EHDEN": "",
         "Gateway": ""
     },
@@ -411,7 +403,7 @@
         "Organisation name": "https://saildatabank.com/||SAIL Databank",
         "Data set": "NCCH",
         "Care type": "Outpatient general practitioner care/Registry",
-        "Health area": null,
+        "Health area": "",
         "EHDEN": "https://portal.ehden.eu/||EHDEN",
         "Gateway": ""
     },
@@ -539,7 +531,7 @@
         "Organisation name": "https://www.dundee.ac.uk/hic||University of Dundee Health Informatics Centre (HIC)",
         "Data set": "HIC",
         "Care type": "Outpatient specialist care/Pharmacy care/Registry/Other",
-        "Health area": null,
+        "Health area": "",
         "EHDEN": "https://portal.ehden.eu/||EHDEN",
         "Gateway": ""
     },
@@ -562,24 +554,24 @@
     {
         "Organisation name": "https://dataloch.org/||University of Edinburgh (DataLoch)",
         "Data set": "EiC dataset",
-        "Care type": null,
-        "Health area": null,
+        "Care type": "",
+        "Health area": "",
         "EHDEN": "",
         "Gateway": ""
     },
     {
         "Organisation name": "https://www.uhb.nhs.uk/||University Hospitals Birmingham NHS Foundation Trust ",
         "Data set": "DECOVID",
-        "Care type": null,
-        "Health area": null,
+        "Care type": "",
+        "Health area": "",
         "EHDEN": "",
         "Gateway": ""
     },
     {
         "Organisation name": "https://www.uhb.nhs.uk/||University Hospitals Birmingham NHS Foundation Trust ",
         "Data set": "TBA",
-        "Care type": null,
-        "Health area": null,
+        "Care type": "",
+        "Health area": "",
         "EHDEN": "",
         "Gateway": ""
     },
@@ -618,32 +610,32 @@
     {
         "Organisation name": "https://wessexhealthpartners.org.uk/||Wessex SNSDE",
         "Data set": "COVID",
-        "Care type": null,
-        "Health area": null,
+        "Care type": "",
+        "Health area": "",
         "EHDEN": "",
         "Gateway": ""
     },
     {
         "Organisation name": "https://wessexhealthpartners.org.uk/||Wessex SNSDE",
         "Data set": "Clinical trials are being considered that have completed",
-        "Care type": null,
-        "Health area": null,
+        "Care type": "",
+        "Health area": "",
         "EHDEN": "",
         "Gateway": ""
     },
     {
         "Organisation name": "https://wessexhealthpartners.org.uk/||Wessex SNSDE",
         "Data set": "ECRIN",
-        "Care type": null,
-        "Health area": null,
+        "Care type": "",
+        "Health area": "",
         "EHDEN": "",
         "Gateway": ""
     },
     {
         "Organisation name": "https://wessexhealthpartners.org.uk/||Wessex SNSDE",
         "Data set": "HICS submissions",
-        "Care type": null,
-        "Health area": null,
+        "Care type": "",
+        "Health area": "",
         "EHDEN": "",
         "Gateway": ""
     }
