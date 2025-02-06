@@ -125,7 +125,7 @@
         "Care type": "",
         "Health area": "",
         "EHDEN": "",
-        "Gateway": "https://healthdatagateway.org/en/dataset/373||EHDEN"
+        "Gateway": "https://healthdatagateway.org/en/dataset/373||Gateway"
     },
     {
         "Organisation name": "https://www.genomicsengland.co.uk/||Genomics England",
@@ -173,7 +173,7 @@
         "Care type": "Cohort",
         "Health area": "COVID",
         "EHDEN": "",
-        "Gateway": "https://healthdatagateway.org/en/dataset/401||EHDEN"
+        "Gateway": "https://healthdatagateway.org/en/dataset/401||Gateway"
     },
     {
         "Organisation name": "https://www.guysandstthomas.nhs.uk/||Guy's & St Thomas' Hospital NHS Foundation Trust",
@@ -293,7 +293,7 @@
         "Care type": "Registry",
         "Health area": "COVID",
         "EHDEN": "",
-        "Gateway": "https://healthdatagateway.org/en/dataset/146||EHDEN"
+        "Gateway": "https://healthdatagateway.org/en/dataset/146||Gateway"
     },
     {
         "Organisation name": "https://www.pioneerdatahub.co.uk/||PIONEER",
@@ -301,7 +301,7 @@
         "Care type": "Registry",
         "Health area": "COVID",
         "EHDEN": "",
-        "Gateway": "https://healthdatagateway.org/en/dataset/139||EHDEN"
+        "Gateway": "https://healthdatagateway.org/en/dataset/139||Gateway"
     },
     {
         "Organisation name": "https://www.pioneerdatahub.co.uk/||PIONEER",
@@ -309,7 +309,7 @@
         "Care type": "Registry",
         "Health area": "COVID",
         "EHDEN": "",
-        "Gateway": "https://healthdatagateway.org/en/dataset/142||EHDEN"
+        "Gateway": "https://healthdatagateway.org/en/dataset/142||Gateway"
     },
     {
         "Organisation name": "https://www.pioneerdatahub.co.uk/||PIONEER",
@@ -317,7 +317,7 @@
         "Care type": "Registry",
         "Health area": "COVID",
         "EHDEN": "",
-        "Gateway": "https://healthdatagateway.org/en/dataset/191||EHDEN"
+        "Gateway": "https://healthdatagateway.org/en/dataset/191||Gateway"
     },
     {
         "Organisation name": "https://www.pioneerdatahub.co.uk/||PIONEER",
@@ -325,7 +325,7 @@
         "Care type": "Registry",
         "Health area": "COVID",
         "EHDEN": "",
-        "Gateway": "https://healthdatagateway.org/en/dataset/144||EHDEN"
+        "Gateway": "https://healthdatagateway.org/en/dataset/144||Gateway"
     },
     {
         "Organisation name": "https://publichealthscotland.scot/||Public Health Scotland",
@@ -485,7 +485,7 @@
         "Care type": "Cohort",
         "Health area": "COVID",
         "EHDEN": "",
-        "Gateway": "https://healthdatagateway.org/en/dataset/703||EHDEN"
+        "Gateway": "https://healthdatagateway.org/en/dataset/703||Gateway"
     },
     {
         "Organisation name": "https://www.uclhospitals.brc.nihr.ac.uk/clinical-research-informatics-unit||UCLH",
@@ -533,7 +533,7 @@
         "Care type": "Cohort",
         "Health area": "COVID",
         "EHDEN": "",
-        "Gateway": "https://healthdatagateway.org/en/dataset/202||EHDEN"
+        "Gateway": "https://healthdatagateway.org/en/dataset/202||Gateway"
     },
     {
         "Organisation name": "https://www.dundee.ac.uk/hic||University of Dundee Health Informatics Centre (HIC)",
@@ -613,7 +613,7 @@
         "Care type": "Cohort",
         "Health area": "COVID",
         "EHDEN": "",
-        "Gateway": "https://healthdatagateway.org/en/dataset/714||EHDEN"
+        "Gateway": "https://healthdatagateway.org/en/dataset/714||Gateway"
     },
     {
         "Organisation name": "https://www.nottingham.ac.uk/||University Of Nottingham",
