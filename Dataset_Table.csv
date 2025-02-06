@@ -14,13 +14,13 @@ https://discover-now.co.uk/||Discover-NOW,Discover-NOW,Primary,General,,
 https://healthinnovationeast.co.uk/||Eastern AHSN (Academic Health Science Network),?,?,?,,
 https://www.ed.ac.uk/generation-scotland||Generation Scotland,GS:SFHS,Cohort,General,,
 https://www.genomicsengland.co.uk/||Genomics England,NHSD HES datasets,Various,"Cancer, rare diseases, COVID",,
-https://www.genomicsengland.co.uk/||Genomics England,"100,000 Genomes",,,,https://healthdatagateway.org/en/dataset/373||EHDEN
+https://www.genomicsengland.co.uk/||Genomics England,"100,000 Genomes",,,,https://healthdatagateway.org/en/dataset/373||Gateway
 https://www.genomicsengland.co.uk/||Genomics England,Internal Cancer and Rare Disease datasets,,,,
 https://www.genomicsengland.co.uk/||Genomics England,NCRAS,,,,
 https://www.genomicsengland.co.uk/||Genomics England,NHSD Cancer datasets,,,,
 https://www.genomicsengland.co.uk/||Genomics England,UKHSA COVID Test Results,,,,
 https://www.gosh.nhs.uk/||Great Ormond Street Hospital,GOSH DRE,Secondary,Paediatric,https://portal.ehden.eu/c/EHDEN/fingerprint/ab2b17e951004da0ae77fffa19736204/1||EHDEN,
-https://www.gosh.nhs.uk/||Great Ormond Street Hospital,Co-STARS,Cohort,COVID,,https://healthdatagateway.org/en/dataset/401||EHDEN
+https://www.gosh.nhs.uk/||Great Ormond Street Hospital,Co-STARS,Cohort,COVID,,https://healthdatagateway.org/en/dataset/401||Gateway
 https://www.guysandstthomas.nhs.uk/||Guy's & St Thomas' Hospital NHS Foundation Trust,NHIC RENAL GSTT,Registry,Renal transplantation,https://portal.ehden.eu/c/EHDEN/fingerprint/65fd0722b9fc9d3ec0eb82c8479bc16a/1||EHDEN,
 https://www.harveywalsh.co.uk/||Harvey Walsh Ltd,HES,Secondary,General,https://portal.ehden.eu/c/EHDEN/fingerprint/718459ab74b2618296afff1f2762c38d/1||EHDEN,
 https://www.imperial.nhs.uk/||Imperial College Healthcare NHS Trust,ICHT Core Data,"Primary, Secondary, Tertiary",General,,
@@ -35,11 +35,11 @@ https://www.njrcentre.org.uk/||National Joint Registry (HQIP),National Joint Reg
 https://bioresource.nihr.ac.uk/||NIHR BioResource,Sample holding,Biobank,General,,
 https://www.optimumpatientcare.org/||Optimum Patient Care,Optimum Patient Care Research Database,Outpatient general practitioner care,General,https://portal.ehden.eu/c/EHDEN/fingerprint/c9c148c1cd8f645fa1d291e7204d82cd/1||EHDEN,https://www.healthdatagateway.org/||Gateway
 https://www.ouh.nhs.uk/||Oxford University Hospitals,Oxford Healthcare Workers,Cohort,COVID,,https://www.healthdatagateway.org/||Gateway
-https://www.pioneerdatahub.co.uk/||PIONEER,CRP,Registry,COVID,,https://healthdatagateway.org/en/dataset/146||EHDEN
-https://www.pioneerdatahub.co.uk/||PIONEER,Hospital COVID patients,Registry,COVID,,https://healthdatagateway.org/en/dataset/139||EHDEN
-https://www.pioneerdatahub.co.uk/||PIONEER,Ventilatory strategies and outcomes,Registry,COVID,,https://healthdatagateway.org/en/dataset/142||EHDEN
-https://www.pioneerdatahub.co.uk/||PIONEER,COPD,Registry,COVID,,https://healthdatagateway.org/en/dataset/191||EHDEN
-https://www.pioneerdatahub.co.uk/||PIONEER,Coagulopathies & thrombosis,Registry,COVID,,https://healthdatagateway.org/en/dataset/144||EHDEN
+https://www.pioneerdatahub.co.uk/||PIONEER,CRP,Registry,COVID,,https://healthdatagateway.org/en/dataset/146||Gateway
+https://www.pioneerdatahub.co.uk/||PIONEER,Hospital COVID patients,Registry,COVID,,https://healthdatagateway.org/en/dataset/139||Gateway
+https://www.pioneerdatahub.co.uk/||PIONEER,Ventilatory strategies and outcomes,Registry,COVID,,https://healthdatagateway.org/en/dataset/142||Gateway
+https://www.pioneerdatahub.co.uk/||PIONEER,COPD,Registry,COVID,,https://healthdatagateway.org/en/dataset/191||Gateway
+https://www.pioneerdatahub.co.uk/||PIONEER,Coagulopathies & thrombosis,Registry,COVID,,https://healthdatagateway.org/en/dataset/144||Gateway
 https://publichealthscotland.scot/||Public Health Scotland,Scottish Cancer Registry (SMR06),Registry,Cancer,,
 https://publichealthscotland.scot/||Public Health Scotland,Scottish Morbidity Record (SMR00),Secondary,General,,
 https://publichealthscotland.scot/||Public Health Scotland,NRS - Deaths Data,Other,Deaths,,
@@ -59,13 +59,13 @@ https://twinsuk.ac.uk/||TwinsUK,TwinsUK,Cohort,General,,
 https://www.gov.uk/government/organisations/uk-health-security-agency||UK Health Security Agency,SIREN,Cohort,COVID,,https://www.healthdatagateway.org/||Gateway
 https://www.ucl.ac.uk/||University College London,UK Biobank,Biobank,General,https://portal.ehden.eu/c/EHDEN/fingerprint/cb77f7cbd63289ed371b7a5384bdff33/1||EHDEN,
 https://www.ucl.ac.uk/||University College London,VIVALDI 2,Cohort,COVID,,https://www.healthdatagateway.org/||Gateway
-https://www.ucl.ac.uk/||University College London,COVIDsortium,Cohort,COVID,,https://healthdatagateway.org/en/dataset/703||EHDEN
+https://www.ucl.ac.uk/||University College London,COVIDsortium,Cohort,COVID,,https://healthdatagateway.org/en/dataset/703||Gateway
 https://www.uclhospitals.brc.nihr.ac.uk/clinical-research-informatics-unit||UCLH,Critical Care Dataset,Secondary,General,,
 https://www.uclhospitals.brc.nihr.ac.uk/clinical-research-informatics-unit||UCLH,General Inpatient Dataset (EHDEN),Inpatient (hospital) care,General,https://portal.ehden.eu/c/EHDEN/fingerprint/9ef2798c0d59a7ed8bc3bdc131ff65c5/1||EHDEN,
 https://www.uclhospitals.brc.nihr.ac.uk/clinical-research-informatics-unit||UCLH,Myeloma Dataset,?Registry,Cancer,,
 https://www.uclhospitals.brc.nihr.ac.uk/clinical-research-informatics-unit||UCLH,Sepsis Research Dataset,?Registry,Sepsis,,
 https://www.uclhospitals.brc.nihr.ac.uk/clinical-research-informatics-unit||UCLH,Blood Transfusion and TDA Dataset,?Registry,Blood transfusion,,
-https://www.cam.ac.uk/||University of Cambridge,TRACK-COVID,Cohort,COVID,,https://healthdatagateway.org/en/dataset/202||EHDEN
+https://www.cam.ac.uk/||University of Cambridge,TRACK-COVID,Cohort,COVID,,https://healthdatagateway.org/en/dataset/202||Gateway
 https://www.dundee.ac.uk/hic||University of Dundee Health Informatics Centre (HIC),Follow-COVID,Cohort,COVID,,
 https://www.dundee.ac.uk/hic||University of Dundee Health Informatics Centre (HIC),MATCH,Cohort,COVID,,
 https://www.dundee.ac.uk/hic||University of Dundee Health Informatics Centre (HIC),HIC,Outpatient specialist care/Pharmacy care/Registry/Other,,https://portal.ehden.eu/c/EHDEN/fingerprint/c76284893a8697a6fbdef47ce3613d85/1||EHDEN,
@@ -75,7 +75,7 @@ https://dataloch.org/||University of Edinburgh (DataLoch),EiC dataset,,,,
 https://www.uhb.nhs.uk/||University Hospitals Birmingham NHS Foundation Trust ,DECOVID,,,,
 https://www.uhb.nhs.uk/||University Hospitals Birmingham NHS Foundation Trust ,TBA,,,,
 https://www.nottingham.ac.uk/||University Of Nottingham,ACE,Cohort,COVID,,https://www.healthdatagateway.org/||Gateway
-https://www.nottingham.ac.uk/||University Of Nottingham,PANTHER,Cohort,COVID,,https://healthdatagateway.org/en/dataset/714||EHDEN
+https://www.nottingham.ac.uk/||University Of Nottingham,PANTHER,Cohort,COVID,,https://healthdatagateway.org/en/dataset/714||Gateway
 https://www.nottingham.ac.uk/||University Of Nottingham,GOAL,Registry,Osteoarthritis,,
 https://www.nottingham.ac.uk/||University Of Nottingham,Omega 3 Cohort,Cohort,Nutrition,,
 https://wessexhealthpartners.org.uk/||Wessex SNSDE,COVID,,,,
