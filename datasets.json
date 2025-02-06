@@ -4,7 +4,7 @@
         "Data set": "Akrivia (AKRDB)",
         "Care type": "Secondary",
         "Health area": "Mental health",
-        "EHDEN": "https://portal.ehden.eu/||EHDEN",
+        "EHDEN": "https://portal.ehden.eu/c/EHDEN/fingerprint/caad32dbaf29a090f971402f0914e6b9/1||EHDEN",
         "Gateway": ""
     },
     {
@@ -20,7 +20,7 @@
         "Data set": "Barts",
         "Care type": "Inpatient (hospital) care/Outpatient specialist care/Pharmacy care",
         "Health area": "General",
-        "EHDEN": "https://portal.ehden.eu/||EHDEN",
+        "EHDEN": "https://portal.ehden.eu/c/EHDEN/fingerprint/a3561d0de114192ece978577133a3ce1/1||EHDEN",
         "Gateway": ""
     },
     {
@@ -36,7 +36,7 @@
         "Data set": "CPRD Aurum",
         "Care type": "Primary",
         "Health area": "General",
-        "EHDEN": "https://portal.ehden.eu/||EHDEN",
+        "EHDEN": "https://portal.ehden.eu/c/EHDEN/fingerprint/f7a9bbcb9d908083f88d1c00e40f1c9b/1||EHDEN",
         "Gateway": ""
     },
     {
@@ -44,7 +44,7 @@
         "Data set": "CPRD Aurum linked HES APC data",
         "Care type": "Primary + Inpatient",
         "Health area": "General",
-        "EHDEN": "https://portal.ehden.eu/||EHDEN",
+        "EHDEN": "https://portal.ehden.eu/c/EHDEN/fingerprint/53ba7e0463ee61834cf1202a4797edfe/1||EHDEN",
         "Gateway": ""
     },
     {
@@ -52,7 +52,7 @@
         "Data set": "cBradford",
         "Care type": "Inpatient (hospital) care/Outpatient general practitioner care/Outpatient specialist care/Long term/ skill nursing facility care/Pharmacy care/Other",
         "Health area": "General",
-        "EHDEN": "https://portal.ehden.eu/||EHDEN",
+        "EHDEN": "https://portal.ehden.eu/c/EHDEN/fingerprint/1cc558a55bc0d14901eeea1f499ecfff/1||EHDEN",
         "Gateway": ""
     },
     {
@@ -125,7 +125,7 @@
         "Care type": "",
         "Health area": "",
         "EHDEN": "",
-        "Gateway": "https://www.healthdatagateway.org/||Gateway"
+        "Gateway": "https://healthdatagateway.org/en/dataset/373||EHDEN"
     },
     {
         "Organisation name": "https://www.genomicsengland.co.uk/||Genomics England",
@@ -161,10 +161,10 @@
     },
     {
         "Organisation name": "https://www.gosh.nhs.uk/||Great Ormond Street Hospital",
-        "Data set": "GOSH Epic data (2019-2023) demographics, visits, medication administrations, diagnoses, procedures",
+        "Data set": "GOSH DRE",
         "Care type": "Secondary",
         "Health area": "Paediatric",
-        "EHDEN": "",
+        "EHDEN": "https://portal.ehden.eu/c/EHDEN/fingerprint/ab2b17e951004da0ae77fffa19736204/1||EHDEN",
         "Gateway": ""
     },
     {
@@ -173,14 +173,14 @@
         "Care type": "Cohort",
         "Health area": "COVID",
         "EHDEN": "",
-        "Gateway": "https://www.healthdatagateway.org/||Gateway"
+        "Gateway": "https://healthdatagateway.org/en/dataset/401||EHDEN"
     },
     {
-        "Organisation name": "https://www.guysandstthomas.nhs.uk/||Guy\u2019s & St Thomas\u2019 Hospital NHS Foundation Trust",
+        "Organisation name": "https://www.guysandstthomas.nhs.uk/||Guy's & St Thomas' Hospital NHS Foundation Trust",
         "Data set": "NHIC RENAL GSTT",
         "Care type": "Registry",
         "Health area": "Renal transplantation",
-        "EHDEN": "https://portal.ehden.eu/||EHDEN",
+        "EHDEN": "https://portal.ehden.eu/c/EHDEN/fingerprint/65fd0722b9fc9d3ec0eb82c8479bc16a/1||EHDEN",
         "Gateway": ""
     },
     {
@@ -188,7 +188,7 @@
         "Data set": "HES",
         "Care type": "Secondary",
         "Health area": "General",
-        "EHDEN": "https://portal.ehden.eu/||EHDEN",
+        "EHDEN": "https://portal.ehden.eu/c/EHDEN/fingerprint/718459ab74b2618296afff1f2762c38d/1||EHDEN",
         "Gateway": ""
     },
     {
@@ -212,7 +212,7 @@
         "Data set": "NNRD",
         "Care type": "Secondary +",
         "Health area": "Neonatal",
-        "EHDEN": "https://portal.ehden.eu/||EHDEN",
+        "EHDEN": "https://portal.ehden.eu/c/EHDEN/fingerprint/17c21e5d374151a1d9a95ce2cf5fcbb8/1||EHDEN",
         "Gateway": "https://www.healthdatagateway.org/||Gateway"
     },
     {
@@ -236,15 +236,15 @@
         "Data set": "SLSR",
         "Care type": "Registry",
         "Health area": "Stroke",
-        "EHDEN": "https://portal.ehden.eu/||EHDEN",
+        "EHDEN": "https://portal.ehden.eu/c/EHDEN/fingerprint/1464853b41bd7b41eb31b650272f9037/1||EHDEN",
         "Gateway": ""
     },
     {
         "Organisation name": "https://www.lancsteachinghospitals.nhs.uk/||Lancashire Teaching Hospitals NHS Foundation Trust",
         "Data set": "IDRIL-1",
-        "Care type": "Secondary,General EHR, Cancer, Drugs, Devices",
-        "Health area": "https://portal.ehden.eu/||EHDEN",
-        "EHDEN": "",
+        "Care type": "Secondary, General EHR",
+        "Health area": "Cancer, Drugs, Devices",
+        "EHDEN": "https://portal.ehden.eu/c/EHDEN/fingerprint/7554401febdaa999bf684bc023b6b7e5/1||EHDEN",
         "Gateway": ""
     },
     {
@@ -252,7 +252,7 @@
         "Data set": "LTHT",
         "Care type": "Inpatient (hospital) care",
         "Health area": "General",
-        "EHDEN": "https://portal.ehden.eu/||EHDEN",
+        "EHDEN": "https://portal.ehden.eu/c/EHDEN/fingerprint/f8770c62877d0a686e7c65694988e8bb/1||EHDEN",
         "Gateway": ""
     },
     {
@@ -276,7 +276,7 @@
         "Data set": "Optimum Patient Care Research Database",
         "Care type": "Outpatient general practitioner care",
         "Health area": "General",
-        "EHDEN": "https://portal.ehden.eu/||EHDEN",
+        "EHDEN": "https://portal.ehden.eu/c/EHDEN/fingerprint/c9c148c1cd8f645fa1d291e7204d82cd/1||EHDEN",
         "Gateway": "https://www.healthdatagateway.org/||Gateway"
     },
     {
@@ -293,7 +293,7 @@
         "Care type": "Registry",
         "Health area": "COVID",
         "EHDEN": "",
-        "Gateway": "https://www.healthdatagateway.org/||Gateway"
+        "Gateway": "https://healthdatagateway.org/en/dataset/146||EHDEN"
     },
     {
         "Organisation name": "https://www.pioneerdatahub.co.uk/||PIONEER",
@@ -301,7 +301,7 @@
         "Care type": "Registry",
         "Health area": "COVID",
         "EHDEN": "",
-        "Gateway": ""
+        "Gateway": "https://healthdatagateway.org/en/dataset/139||EHDEN"
     },
     {
         "Organisation name": "https://www.pioneerdatahub.co.uk/||PIONEER",
@@ -309,7 +309,7 @@
         "Care type": "Registry",
         "Health area": "COVID",
         "EHDEN": "",
-        "Gateway": ""
+        "Gateway": "https://healthdatagateway.org/en/dataset/142||EHDEN"
     },
     {
         "Organisation name": "https://www.pioneerdatahub.co.uk/||PIONEER",
@@ -317,7 +317,7 @@
         "Care type": "Registry",
         "Health area": "COVID",
         "EHDEN": "",
-        "Gateway": ""
+        "Gateway": "https://healthdatagateway.org/en/dataset/191||EHDEN"
     },
     {
         "Organisation name": "https://www.pioneerdatahub.co.uk/||PIONEER",
@@ -325,7 +325,7 @@
         "Care type": "Registry",
         "Health area": "COVID",
         "EHDEN": "",
-        "Gateway": ""
+        "Gateway": "https://healthdatagateway.org/en/dataset/144||EHDEN"
     },
     {
         "Organisation name": "https://publichealthscotland.scot/||Public Health Scotland",
@@ -372,7 +372,7 @@
         "Data set": "National Hip Fracture Database (England and Wales)",
         "Care type": "Registry",
         "Health area": "Hip fractures",
-        "EHDEN": "https://portal.ehden.eu/||EHDEN",
+        "EHDEN": "https://portal.ehden.eu/c/EHDEN/fingerprint/b23d2ce8e4e7dfe2bea648f4061e7985/1||EHDEN",
         "Gateway": ""
     },
     {
@@ -380,7 +380,7 @@
         "Data set": "Fracture Liaison Service Database",
         "Care type": "Registry",
         "Health area": "Fragility fracture",
-        "EHDEN": "https://portal.ehden.eu/||EHDEN",
+        "EHDEN": "https://portal.ehden.eu/c/EHDEN/fingerprint/196c57563d2bf257b2d04c95e2de9968/1||EHDEN",
         "Gateway": ""
     },
     {
@@ -388,7 +388,7 @@
         "Data set": "ORCHID",
         "Care type": "Primary",
         "Health area": "General",
-        "EHDEN": "https://portal.ehden.eu/||EHDEN",
+        "EHDEN": "https://portal.ehden.eu/c/EHDEN/fingerprint/0b4c0353f5804239a804626ccf68161a/1||EHDEN",
         "Gateway": ""
     },
     {
@@ -401,10 +401,10 @@
     },
     {
         "Organisation name": "https://saildatabank.com/||SAIL Databank",
-        "Data set": "NCCH",
+        "Data set": "National Community Child Health Database (NCCH)",
         "Care type": "Outpatient general practitioner care/Registry",
         "Health area": "",
-        "EHDEN": "https://portal.ehden.eu/||EHDEN",
+        "EHDEN": "https://portal.ehden.eu/c/EHDEN/fingerprint/605c3f7a824e54d0095aada07edf163c/1||EHDEN",
         "Gateway": ""
     },
     {
@@ -412,7 +412,31 @@
         "Data set": "COVID-19 Test Results (PATD)",
         "Care type": "Other",
         "Health area": "COVID",
-        "EHDEN": "https://portal.ehden.eu/||EHDEN",
+        "EHDEN": "https://portal.ehden.eu/c/EHDEN/fingerprint/2ddf4ed82092b268a014036e41996897/1||EHDEN",
+        "Gateway": ""
+    },
+    {
+        "Organisation name": "https://saildatabank.com/||SAIL Databank",
+        "Data set": "Annual District Death Extract (ADDE)",
+        "Care type": "Other",
+        "Health area": "Deaths",
+        "EHDEN": "https://portal.ehden.eu/c/EHDEN/fingerprint/f0f705f2ade0de7854775111260a2aad/1||EHDEN",
+        "Gateway": ""
+    },
+    {
+        "Organisation name": "https://saildatabank.com/||SAIL Databank",
+        "Data set": "Patient Episode Dataset for Wales (PEDW)",
+        "Care type": "Secondary; Registry",
+        "Health area": "General",
+        "EHDEN": "https://portal.ehden.eu/c/EHDEN/fingerprint/cf7b32bb8cd80d35f57fd6bfacd90289/1/||EHDEN",
+        "Gateway": ""
+    },
+    {
+        "Organisation name": "https://saildatabank.com/||SAIL Databank",
+        "Data set": "Welsh Demographic Service Dataset (WDSD)",
+        "Care type": "Registry",
+        "Health area": "General",
+        "EHDEN": "https://portal.ehden.eu/c/EHDEN/fingerprint/1f2b445f80dd8e7b050fd166c923f630/1||EHDEN",
         "Gateway": ""
     },
     {
@@ -420,7 +444,7 @@
         "Data set": "LDN",
         "Care type": "Outpatient general practitioner care",
         "Health area": "General",
-        "EHDEN": "https://portal.ehden.eu/||EHDEN",
+        "EHDEN": "https://portal.ehden.eu/c/EHDEN/fingerprint/910e5bb2ee681bcf68d6c9741306d546/1||EHDEN",
         "Gateway": ""
     },
     {
@@ -444,7 +468,7 @@
         "Data set": "UK Biobank",
         "Care type": "Biobank",
         "Health area": "General",
-        "EHDEN": "https://portal.ehden.eu/||EHDEN",
+        "EHDEN": "https://portal.ehden.eu/c/EHDEN/fingerprint/cb77f7cbd63289ed371b7a5384bdff33/1||EHDEN",
         "Gateway": ""
     },
     {
@@ -461,7 +485,7 @@
         "Care type": "Cohort",
         "Health area": "COVID",
         "EHDEN": "",
-        "Gateway": "https://www.healthdatagateway.org/||Gateway"
+        "Gateway": "https://healthdatagateway.org/en/dataset/703||EHDEN"
     },
     {
         "Organisation name": "https://www.uclhospitals.brc.nihr.ac.uk/clinical-research-informatics-unit||UCLH",
@@ -476,7 +500,7 @@
         "Data set": "General Inpatient Dataset (EHDEN)",
         "Care type": "Inpatient (hospital) care",
         "Health area": "General",
-        "EHDEN": "https://portal.ehden.eu/||EHDEN",
+        "EHDEN": "https://portal.ehden.eu/c/EHDEN/fingerprint/9ef2798c0d59a7ed8bc3bdc131ff65c5/1||EHDEN",
         "Gateway": ""
     },
     {
@@ -509,7 +533,7 @@
         "Care type": "Cohort",
         "Health area": "COVID",
         "EHDEN": "",
-        "Gateway": "https://www.healthdatagateway.org/||Gateway"
+        "Gateway": "https://healthdatagateway.org/en/dataset/202||EHDEN"
     },
     {
         "Organisation name": "https://www.dundee.ac.uk/hic||University of Dundee Health Informatics Centre (HIC)",
@@ -532,7 +556,7 @@
         "Data set": "HIC",
         "Care type": "Outpatient specialist care/Pharmacy care/Registry/Other",
         "Health area": "",
-        "EHDEN": "https://portal.ehden.eu/||EHDEN",
+        "EHDEN": "https://portal.ehden.eu/c/EHDEN/fingerprint/c76284893a8697a6fbdef47ce3613d85/1||EHDEN",
         "Gateway": ""
     },
     {
@@ -540,7 +564,7 @@
         "Data set": "Cancer (SESCD)",
         "Care type": "Secondary",
         "Health area": "Cancer",
-        "EHDEN": "",
+        "EHDEN": "https://portal.ehden.eu/c/EHDEN/fingerprint/2abcc1297ebeccefd93936dd80f4b43b/1||EHDEN",
         "Gateway": "https://www.healthdatagateway.org/||Gateway"
     },
     {
@@ -548,7 +572,7 @@
         "Data set": "COVID19",
         "Care type": "Other",
         "Health area": "COVID",
-        "EHDEN": "https://portal.ehden.eu/||EHDEN",
+        "EHDEN": "https://portal.ehden.eu/c/EHDEN/fingerprint/04c214bb6833c62b2164cdc88a983e9a/1||EHDEN",
         "Gateway": ""
     },
     {
@@ -589,7 +613,7 @@
         "Care type": "Cohort",
         "Health area": "COVID",
         "EHDEN": "",
-        "Gateway": "https://www.healthdatagateway.org/||Gateway"
+        "Gateway": "https://healthdatagateway.org/en/dataset/714||EHDEN"
     },
     {
         "Organisation name": "https://www.nottingham.ac.uk/||University Of Nottingham",
