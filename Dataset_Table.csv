@@ -1,5 +1,7 @@
-﻿Organisation name,Data set,Care type,Health area,Link
+Organisation name,Data set,Care type,Health area,Link
 https://akriviahealth.com||Akrivia Health,Akrivia (AKRDB),Secondary,Mental health,https://portal.ehden.eu/c/EHDEN/fingerprint/caad32dbaf29a090f971402f0914e6b9/1||EHDEN
+https://alleviate.ac.uk||Alleviate Hub,Birmingham Inflammation and joint pain study,Secondary care,Pain,https://healthdatagateway.org/en/dataset/1009||Gateway
+https://alleviate.ac.uk||Alleviate Hub,Oxford Carpal Tunnel Syndrome (CTS) Cohort,Secondary care,Study,https://healthdatagateway.org/en/dataset/736||Gateway
 https://www.bristol.ac.uk/alspac/||Avon Longitudinal Study of Parents and Children,ALSPAC,Cohort,General,
 https://www.bartshealth.nhs.uk/||Barts Health NHS Trust,Barts,Inpatient (hospital) care/Outpatient specialist care/Pharmacy care,General,https://portal.ehden.eu/c/EHDEN/fingerprint/a3561d0de114192ece978577133a3ce1/1||EHDEN
 https://www.bartshealth.nhs.uk/||Barts Health NHS Trust,Barts Health NHS OMOP Dataset,Barts Health NHS OMOP Dataset,General,https://healthdatagateway.org/en/dataset/1098||Gateway

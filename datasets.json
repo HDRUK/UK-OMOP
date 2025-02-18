@@ -7,6 +7,20 @@
         "Link": "https://portal.ehden.eu/c/EHDEN/fingerprint/caad32dbaf29a090f971402f0914e6b9/1||EHDEN"
     },
     {
+        "Organisation name": "https://alleviate.ac.uk||Alleviate Hub",
+        "Data set": "Birmingham Inflammation and joint pain study",
+        "Care type": "Secondary care",
+        "Health area": "Pain",
+        "Link": "https://healthdatagateway.org/en/dataset/1009||Gateway"
+    },
+    {
+        "Organisation name": "https://alleviate.ac.uk||Alleviate Hub",
+        "Data set": "Oxford Carpal Tunnel Syndrome (CTS) Cohort",
+        "Care type": "Secondary care",
+        "Health area": "Study",
+        "Link": "https://healthdatagateway.org/en/dataset/736||Gateway"
+    },
+    {
         "Organisation name": "https://www.bristol.ac.uk/alspac/||Avon Longitudinal Study of Parents and Children",
         "Data set": "ALSPAC",
         "Care type": "Cohort",
