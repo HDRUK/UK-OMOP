@@ -21,6 +21,34 @@
         "Link": "https://healthdatagateway.org/en/dataset/736||Gateway"
     },
     {
+        "Organisation name": "https://alleviate.ac.uk||Alleviate Hub",
+        "Data set": "Generation Scotland",
+        "Care type": "",
+        "Health area": "Tissue Directory",
+        "Link": "https://healthdatagateway.org/en/dataset/430||Gateway"
+    },
+    {
+        "Organisation name": "https://alleviate.ac.uk||Alleviate Hub",
+        "Data set": "Omega 3 Cohort",
+        "Care type": "",
+        "Health area": "Study",
+        "Link": "https://healthdatagateway.org/en/dataset/710||Gateway"
+    },
+    {
+        "Organisation name": "https://alleviate.ac.uk||Alleviate Hub",
+        "Data set": "Genetics of Osteoarthritis and Lifestyle (GOAL)",
+        "Care type": "",
+        "Health area": "Study",
+        "Link": "https://healthdatagateway.org/en/dataset/711||Gateway"
+    },
+    {
+        "Organisation name": "https://alleviate.ac.uk||Alleviate Hub",
+        "Data set": "WebEx Cohort",
+        "Care type": "",
+        "Health area": "Study",
+        "Link": "https://healthdatagateway.org/en/dataset/713||Gateway"
+    },
+    {
         "Organisation name": "https://www.bristol.ac.uk/alspac/||Avon Longitudinal Study of Parents and Children",
         "Data set": "ALSPAC",
         "Care type": "Cohort",
