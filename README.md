@@ -14,6 +14,18 @@ This repository includes the following files:
 - [Jupyter Notebook](csv_to_json.ipynb) to convert CSV file to JSON format
 - [Jupyter Notebook](json_to_csv.ipynb) to convert JSON file to CSV format
 
-This JSON file is linked to from the page [Directory of UK OMOP Data Sets](https://ukhealthdata.org/data-standards/directory-of-omop-data-sets-in-the-uk/). The JSON file should be edited to make any necessary changes to the table. This is currently pre-release; releases will be linked to Zenodo and each will have their own DOI.
+This JSON file is linked to from the page [Directory of UK OMOP Data Sets](https://ukhealthdata.org/data-standards/directory-of-omop-data-sets-in-the-uk/). The JSON file should be edited to make any necessary changes to the table. Releases are linked to Zenodo and each will have their own DOI (see above).
 
-Questions? Please contact [Alex Knight](mailto:alex.knight@hdruk.ac.uk) or [UK Alliance](mailto:ukalliance@hdruk.ac.uk)
+The JSON file contains the following fields, each of which forms a column in the directory table on the web site. Each entry should contain these fields:
+
+|Field|Description|Example|
+|-----|-----------|-------|
+|`Organisation name`|A link to the data custodian web site and their name, separated by a double pipe: `\|\|` |_"[https://alleviate.ac.uk\|\|Alleviate Hub](https://alleviate.ac.uk)"_|
+|`Data set`|The name or acronym of the data set|_"Birmingham Inflammation and joint pain study"_|
+|`Care type`|The tier of care or type of research, e.g. primary care, registry.|_"Secondary care"_|
+|`Health area`|The field of health care the data applies to, e.g. "Cancer" or "General"|_"Pain"_|
+|`Link`|A link to the data set on a portal or repository. Include the portal name after a double pipe.|_"[https://healthdatagateway.org/en/dataset/1009\|\|Gateway](https://healthdatagateway.org/en/dataset/1009)"_|
+
+Please take care with your JSON formatting!
+
+Questions? Please contact [Alex Knight](mailto:alex.knight@hdruk.ac.uk) or the [Data Standards team](mailto:data_standards@hdruk.ac.uk)
