@@ -420,13 +420,6 @@
         "Link": "https://portal.ehden.eu/c/EHDEN/fingerprint/196c57563d2bf257b2d04c95e2de9968/1||EHDEN"
     },
     {
-        "Organisation name": "https://orchid.phc.ox.ac.uk/surveillance||Oxford University, Royal College of General Practitioners Research and Surveillance Centre",
-        "Data set": "ORCHID",
-        "Care type": "Primary",
-        "Health area": "General",
-        "Link": "https://portal.ehden.eu/c/EHDEN/fingerprint/0b4c0353f5804239a804626ccf68161a/1||EHDEN"
-    },
-    {
         "Organisation name": "https://saildatabank.com/||SAIL Databank",
         "Data set": "Covid Vaccination Dataset (CVVD)",
         "Care type": "Other",
